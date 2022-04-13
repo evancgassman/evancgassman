@@ -1,3 +1,10 @@
+
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Nederlands</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+</table>
+
 ## <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="75px"> World.
 ![](https://visitor-badge.glitch.me/badge?page_id=evancgassman.evancgassman)<br>
 My name is **Evan C. Gassman**, and I am a self-taught developer and business owner. I program in many different langues and environments. I am **17** years old. My company is called **Gibbabyte LLC**, and to no suprise, it is a tech company. My favorite programming language/runtime is **NodeJS**.
@@ -25,3 +32,4 @@ If you need help with anything, go ahead and contact me; I will be more than hap
 <div float="right">
 PSSSSSST... If you enjoy what I do, maybe consider buying me a coffee.
 </div>
+
