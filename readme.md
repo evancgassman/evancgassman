@@ -6,15 +6,22 @@ From time to time, I am available to do independent contracting or freelancing w
 If you need help with anything, go ahead and contact me; I will be more than happy to help! 
 
 <a href="https://www.instagram.com/evan.gassman/">
-  <img align="left" alt="Evan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Evan's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/z5gteypf3p">
-  <img align="left" alt="Evan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Evan's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/evancgassman">
-  <img align="left" alt="Evan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://discord.gg/z5gteypf3p">
+  <img align="left" alt="Evan's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Evan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.youtube.com/channel/UCCsA1-rG1FvNpF8Vc0h7MqQ">
+  <img align="left" alt="Evan's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.linkedin.com/in/evan-gassman-b35256221/">
+  <img align="left" alt="Evan's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br>
 
+<div float="right">
+PSSSSSST... If you enjoy what I do, maybe consider buying me a coffee.
+</div>
