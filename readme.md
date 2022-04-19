@@ -31,6 +31,5 @@ If you need help with anything, go ahead and contact me; I will be more than hap
 
 <div float="right">
 PSSSSSST... If you enjoy what I do, maybe consider buying me a coffee.
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5C6TF6)
 </div>
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5C6TF6)
