@@ -28,8 +28,7 @@ If you need help with anything, go ahead and contact me; I will be more than hap
   <img align="left" alt="Evan's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
- <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee','#29abe0', 'A0A5C6TF6');kofiwidget2.draw();</script> 
 <div float="right">
 PSSSSSST... If you enjoy what I do, maybe consider buying me a coffee.
 </div>
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5C6TF6)
