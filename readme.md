@@ -1,4 +1,5 @@
-<img src="/assets/pfp.png" style="height: 5%; width: auto;">
+<img src="/assets/pfp.png" style="height: 200px;" align="right">
+
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Nederlands</a></td></tr>
