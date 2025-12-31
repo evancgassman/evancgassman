@@ -1,5 +1,3 @@
-<img src="/assets/pfp.png" style="height: 200px;" align="right">
-
 <table align="right">
  <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
  <tr><td><a href="README_ES.md">🇪🇸 Español</a></td></tr>
@@ -26,9 +24,18 @@ If you need help with anything, go ahead and contact me; I will be more than hap
   <img align="left" alt="Evan's Youtube" width="25px" src="/assets/youtube.svg"/>
 </a>
 <a href="https://x.com/evan_gassman">
-  <img align="left" alt="Evan's Twitter" width="25px" src="assets/twitter.svg" />
+  <img align="left" alt="Evan's Twitter" width="25px" src="assets/x.svg" />
+</a>
+<a href="https://www.threads.com/@evan.gassman">
+  <img align="left" alt="Evan's Threads" width="25px" src="assets/threads.svg" />
+</a>
+<a href="https://www.facebook.com/evancgassman/">
+  <img align="left" alt="Evan's Facebook" width="25px" src="assets/facebook.svg" />
+</a>
+<a href="https://www.tiktok.com/@evan.gassman">
+  <img align="left" alt="Evan's TikTok" width="25px" src="assets/tiktok.svg" />
 </a>
 <a href="https://www.linkedin.com/in/evan-gassman-b35256221/">
-  <img align="left" alt="Evan's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Evan's LinkedIn" width="25px" src="assets/linkedin.svg" />
 </a>
 <br><br>
