@@ -1,12 +1,15 @@
 <table align="right">
- <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
- <tr><td><a href="README_ES.md">🇪🇸 Español</a></td></tr>
- <tr><td><a href="README_NL.md">🇳🇱 Nederlands</a></td></tr>
+  <tr>
+    <th>Languages</th>
+  </tr>
+  <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
+  <tr><td><a href="README_ES.md">🇪🇸 Español</a></td></tr>
+  <tr><td><a href="README_NL.md">🇳🇱 Nederlands</a></td></tr>
 </table>
 
-## <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="75px"> I'm Evan C. Gassman.
+## <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="75px"> I'm Evan Gassman.
 ![](https://visitor-badge.glitch.me/badge?page_id=evancgassman.evancgassman)
-<br>
+<br> 
 ### ⭐ Author, Artist, Aspiring Actor, Developer. USIDHR Certified Human Rights Consultant with a BSBA. ⭐
 
 My name is **Evan C. Gassman**, and I am a self-taught developer and business owner.<br>
@@ -37,7 +40,11 @@ If you need help with anything, go ahead and contact me; I will be more than hap
 <a href="https://www.tiktok.com/@evan.gassman">
   <img align="left" alt="Evan's TikTok" width="25px" src="assets/tiktok.svg" />
 </a>
-<a href="https://www.linkedin.com/in/evan-gassman-b35256221/">
+<a href="https://www.linkedin.com/in/evangassman/">
   <img align="left" alt="Evan's LinkedIn" width="25px" src="assets/linkedin.svg" />
 </a>
-<br><br>
+<br>
+
+#### Github Statistics
+
+![Visitor Count](https : //profile-counter.glitch.me/evancgassman/count.svg)
