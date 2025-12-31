@@ -4,9 +4,11 @@
  <tr><td><a href="README_NL.md">🇳🇱 Nederlands</a></td></tr>
 </table>
 
-## <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="75px"> World.
-![](https://visitor-badge.glitch.me/badge?page_id=evancgassman.evancgassman)<br>
+## <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="75px"> I'm Evan C. Gassman.
+![](https://visitor-badge.glitch.me/badge?page_id=evancgassman.evancgassman)
 <br>
+### ⭐ Author, Artist, Aspiring Actor, Developer. USIDHR Certified Human Rights Consultant with a BSBA. ⭐
+
 My name is **Evan C. Gassman**, and I am a self-taught developer and business owner.<br>
 I program in many different languages and environments. I am **17** years old and my company is called **Gibbabyte LLC**, which is a technology and data based company. My favorite programming language/runtime is **NodeJS**. I love reverse engineering and have tons of experience in hexadecimal and binary.<br>
 
